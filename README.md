@@ -43,7 +43,7 @@ https://gist.github.com/GlobalTechInfo/860236d11ba4bf9041d9417b24adc19b
 
 <h4 align="center"> CHATBOT </h1>
 
-ChatBot Plugin (No Apikey Needed)
+ChatBot Plugin
 ```
 https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8
 ```
