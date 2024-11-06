@@ -23,9 +23,27 @@
 
 ## Available Plugins
 
+<h4 align="center"> TIME CHECK </h1>
+
+Shows Live Time Of Any Country
+```
+https://gist.github.com/GlobalTechInfo/76e1cfdfc8f7e4e86dad69507ab52c43
+```
+- Created By Qasim
+---
+
+<h4 align="center"> GOOGLE </h1>
+
+Minimal Google Search 
+```
+https://gist.github.com/GlobalTechInfo/ca6fd6f94a7ea4c64153362ea1eb8f9b
+```
+- Created By Qasim
+---
+
 <h4 align="center"> TRAVEL ASSISTANT </h1>
 
-Travel-Assistant
+Travelling Assistant
 ```
 https://gist.github.com/GlobalTechInfo/9278ac5e5882289c836374cb40acd06d
 ```
