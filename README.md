@@ -1,7 +1,7 @@
 <h1 align="center"> ULTRA MD PLUGINS </h1>
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/GURU BOT-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/ULTRA MD-PLUGINS-black?style=for-the-badge&logo=Github"></a>
 <p/>
 
  ##  Command Usage
