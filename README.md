@@ -23,7 +23,7 @@
 
 ## Available Plugins
 
-<h4 align="center"> Travel Assistant </h1>
+<h4 align="center"> TRAVEL ASSISTANT </h1>
 
 Travel-Assistant
 ```
@@ -50,7 +50,7 @@ https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8
 - Created By Guru
 ---
 
-<h4 align="center"> LEAVE </h1>
+<h4 align="center"> LEAVE GROUP </h1>
 
 Leave from a Group
 ```
