@@ -27,7 +27,7 @@
 
 Travel-Assistant
 ```
-https://gist.github.com/GlobalTechInfo/9278ac5e5882289c836374cb40acd06d/revisions
+https://gist.github.com/GlobalTechInfo/9278ac5e5882289c836374cb40acd06d
 ```
 - Created By Qasim
 ---
