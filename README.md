@@ -23,7 +23,25 @@
 
 ## Available Plugins
 
-<h4 align="center"> TIME CHECK </h1>
+<h4 align="center"> HACK PRANK </h1>
+
+Fun and cool hacking simulation
+```
+https://gist.github.com/GlobalTechInfo/0004dcf0a605aeb05cbe6a67f4ad2b7f
+```
+- Created By Qasim
+---
+
+<h4 align="center"> QUOTED STICKER </h1>
+
+Create Stickers Based On Your Quotations
+```
+https://gist.github.com/GlobalTechInfo/ceea9f82889e287d8cd08508d66bb618
+```
+- Created By Qasim
+---
+
+<h4 align="center"> TIME </h1>
 
 Shows Live Time Of Any Country
 ```
