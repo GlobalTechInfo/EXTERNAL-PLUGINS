@@ -34,7 +34,7 @@ https://gist.github.com/GlobalTechInfo/0004dcf0a605aeb05cbe6a67f4ad2b7f
 
 <h4 align="center"> QUOTED STICKER </h1>
 
-Create Stickers Based On Your Quotations
+Generate Stickers Based On Your Words
 ```
 https://gist.github.com/GlobalTechInfo/ceea9f82889e287d8cd08508d66bb618
 ```
