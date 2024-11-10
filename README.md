@@ -23,6 +23,15 @@
 
 ## Available Plugins
 
+<h4 align="center"> LINUX MACHINE </h1>
+
+Run Linux Machine In WhatsApp
+```
+https://gist.github.com/GlobalTechInfo/9d7fbb6a03fc23fd5574aed7fa6d7237
+```
+- Created By Qasim
+---
+
 <h4 align="center"> HACK PRANK </h1>
 
 Fun and cool hacking simulation
