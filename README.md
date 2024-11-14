@@ -23,6 +23,24 @@
 
 ## Available Plugins
 
+<h4 align="center"> GET JID </h1>
+
+Get Jids Of Any Group And Its Participants
+```
+https://gist.github.com/GlobalTechInfo/31a68f74f5483aa3b79a385b7173e558
+```
+- Created By Qasim
+---
+
+<h4 align="center"> ROUNDED CORNERS </h1>
+
+Generate Beautiful Rounded corner Stickers From Images
+```
+https://gist.github.com/GlobalTechInfo/afec1aea0969afeba67cf042efbdf4a0
+```
+- Created By Qasim
+---
+
 <h4 align="center"> LINUX MACHINE </h1>
 
 Run Linux Machine In WhatsApp
