@@ -3,57 +3,87 @@
     {
       "name": "GET JIDS",
       "url": "https://gist.github.com/GlobalTechInfo/31a68f74f5483aa3b79a385b7173e558",
-      "description": "Fetches the JID (Jabber ID) of Groups And Members."
+      "description": "Fetches the Jabber ID (JID) of groups and members for easier identification and management."
     },
     {
       "name": "R-C STICKER",
       "url": "https://gist.github.com/GlobalTechInfo/afec1aea0969afeba67cf042efbdf4a0",
-      "description": "Generate Beautiful Rounded Corner Stickers From Images."
+      "description": "Generate stylish rounded corner stickers from images with ease and share them instantly."
     },
     {
       "name": "LIVE TIME",
       "url": "https://gist.github.com/GlobalTechInfo/76e1cfdfc8f7e4e86dad69507ab52c43",
-      "description": "Displays the current live time of any given location."
+      "description": "Displays the current live time of any location worldwide, keeping you updated on time zone differences."
     },
     {
       "name": "QUOTED STICKER",
       "url": "https://gist.github.com/GlobalTechInfo/ceea9f82889e287d8cd08508d66bb618",
-      "description": "Generate Custome Stickers Based On Your Text."
+      "description": "Create custom text-based stickers, personalized with your own quotes or messages."
     },
     {
       "name": "HACK PRANK",
       "url": "https://gist.github.com/GlobalTechInfo/0004dcf0a605aeb05cbe6a67f4ad2b7f",
-      "description": "Prank tool that simulates a hacking event."
+      "description": "A prank tool that simulates a hacking event, perfect for scaring your friends in a fun way."
     },
     {
       "name": "LINUX MACHINE",
       "url": "https://gist.github.com/GlobalTechInfo/9d7fbb6a03fc23fd5574aed7fa6d7237",
-      "description": "Emulates basic Linux machine commands and operations within WhatsApp."
+      "description": "Simulates basic Linux machine commands, bringing a virtual Linux environment into WhatsApp chats."
     },
     {
       "name": "LEAVE GROUP",
       "url": "https://gist.github.com/Guru322/6263ff5478fe20b7467648d694646f6c",
-      "description": "No Description."
+      "description": "Quickly leave a group with a single command, ideal for situations where you no longer wish to stay."
     },
     {
       "name": "CHATBOT",
       "url": "https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8",
-      "description": "Integrates a chatbot to engage in automated conversations."
+      "description": "Integrate an automated chatbot that engages in meaningful conversations, enhancing user interaction."
     },
     {
       "name": "BLACKBOX AI",
       "url": "https://gist.github.com/GlobalTechInfo/860236d11ba4bf9041d9417b24adc19b",
-      "description": "Advanced AI tool for analyzing data and making predictions or decisions based on black-box machine learning."
+      "description": "A sophisticated AI tool designed to analyze data and make predictions using black-box machine learning models."
     },
     {
       "name": "TRAVEL ASSISTANT",
       "url": "https://gist.github.com/GlobalTechInfo/9278ac5e5882289c836374cb40acd06d",
-      "description": "Provides travel-related information such as flight bookings, hotel recommendations, and itineraries."
+      "description": "Your personal travel assistant for booking flights, finding hotels, and managing itineraries seamlessly."
     },
     {
       "name": "MINIMAL GOOGLE",
       "url": "https://gist.github.com/GlobalTechInfo/ca6fd6f94a7ea4c64153362ea1eb8f9b",
-      "description": "A minimalistic interface to interact with Google's search engine, offering fast results."
+      "description": "A minimalistic interface for fast and efficient searches on Google, focusing on speed and simplicity."
+    },
+    {
+      "name": "FACTS",
+      "url": "https://gist.github.com/GlobalTechInfo/c5360582b85bc7a2e83c2895b166acf9",
+      "description": "Delivers a random, interesting fact each time you trigger the command, making learning fun and engaging."
+    },
+    {
+      "name": "TELL ME",
+      "url": "https://gist.github.com/GlobalTechInfo/3e290cd388192b6b6de0422521de24b3",
+      "description": "Asks random 'Why' questions, sparking thought-provoking conversations and curiosity."
+    },
+    {
+      "name": "SEARCH STICKERS",
+      "url": "https://gist.github.com/GlobalTechInfo/35a9d9d01bbc4f6881ce7a6c9de6249a",
+      "description": "Search for stickers by your preferred search term, making it easier to find the perfect sticker for your chat."
+    },
+    {
+      "name": "RANDOM WALLP",
+      "url": "https://gist.github.com/GlobalTechInfo/7b1e0071cb5a6f6ad67ce0ce90746bd5",
+      "description": "Provides random anime-themed wallpapers, allowing you to freshen up your screen with new artwork."
+    },
+    {
+      "name": "RANDOM NEKO",
+      "url": "https://gist.github.com/GlobalTechInfo/14475c99a16520365d9d78a753e7ac1c",
+      "description": "Fetches random images of anime characters with cat ears (Neko), adding cuteness to your day."
+    },
+    {
+      "name": "TEDDY",
+      "url": "https://gist.github.com/GlobalTechInfo/2d13c84ee048592d8f24a8a22363b306",
+      "description": "Sends an adorable animated teddy bear to bring a smile to your face."
     }
   ]
 }
