@@ -23,6 +23,60 @@
 
 ## Available Plugins
 
+<h4 align="center"> FACTS </h1>
+
+It Will Tells You Random Facts Each Time You Triggers The Command
+```
+https://gist.github.com/GlobalTechInfo/c5360582b85bc7a2e83c2895b166acf9
+```
+- Created By Qasim
+---
+
+<h4 align="center"> TELL ME </h1>
+
+It Will Asks You Random Why Questions
+```
+https://gist.github.com/GlobalTechInfo/3e290cd388192b6b6de0422521de24b3
+```
+- Created By Qasim
+---
+
+<h4 align="center"> SEARCH STICKERS </h1>
+
+Search Stickers Using Your Term
+```
+https://gist.github.com/GlobalTechInfo/35a9d9d01bbc4f6881ce7a6c9de6249a
+```
+- Created By Qasim
+---
+
+<h4 align="center"> RANDOM WALLP </h1>
+
+Get Random Anime Wallpapers
+```
+https://gist.github.com/GlobalTechInfo/7b1e0071cb5a6f6ad67ce0ce90746bd5
+```
+- Created By Qasim
+---
+
+<h4 align="center"> RANDOM NEKO </h1>
+
+Get Random Images Of Anime Character Neko
+```
+https://gist.github.com/GlobalTechInfo/14475c99a16520365d9d78a753e7ac1c
+```
+- Created By Qasim
+---
+
+<h4 align="center"> TEDDY </h1>
+
+Sends Animated Teddy
+```
+https://gist.github.com/GlobalTechInfo/2d13c84ee048592d8f24a8a22363b306
+```
+- Created By Qasim
+---
+
 <h4 align="center"> GET JID </h1>
 
 Get Jids Of Any Group And Its Participants
