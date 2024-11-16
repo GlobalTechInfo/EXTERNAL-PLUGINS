@@ -3,42 +3,42 @@
     {
       "name": "GET JIDS",
       "url": "https://gist.github.com/GlobalTechInfo/31a68f74f5483aa3b79a385b7173e558",
-      "description": "Fetches the JID (Jabber ID) for users or devices connected to the server."
+      "description": "Fetches the JID (Jabber ID) of Groups And Members."
     },
     {
       "name": "R-C STICKER",
       "url": "https://gist.github.com/GlobalTechInfo/afec1aea0969afeba67cf042efbdf4a0",
-      "description": "Adds custom stickers to messages, with the ability to send and manage them."
+      "description": "Generate Beautiful Rounded Corner Stickers From Images."
     },
     {
       "name": "LIVE TIME",
       "url": "https://gist.github.com/GlobalTechInfo/76e1cfdfc8f7e4e86dad69507ab52c43",
-      "description": "Displays the current live time of any given location, providing accurate timezone info."
+      "description": "Displays the current live time of any given location."
     },
     {
       "name": "QUOTED STICKER",
       "url": "https://gist.github.com/GlobalTechInfo/ceea9f82889e287d8cd08508d66bb618",
-      "description": "Allows users to reply to messages with quoted text and accompanying stickers."
+      "description": "Generate Custome Stickers Based On Your Text."
     },
     {
       "name": "HACK PRANK",
       "url": "https://gist.github.com/GlobalTechInfo/0004dcf0a605aeb05cbe6a67f4ad2b7f",
-      "description": "Prank tool that simulates a hacking event or warning in a chat environment."
+      "description": "Prank tool that simulates a hacking event."
     },
     {
       "name": "LINUX MACHINE",
       "url": "https://gist.github.com/GlobalTechInfo/9d7fbb6a03fc23fd5574aed7fa6d7237",
-      "description": "Emulates basic Linux machine commands and operations within the chat system."
+      "description": "Emulates basic Linux machine commands and operations within WhatsApp."
     },
     {
       "name": "LEAVE GROUP",
       "url": "https://gist.github.com/Guru322/6263ff5478fe20b7467648d694646f6c",
-      "description": "Automatically removes users from groups based on set conditions or triggers."
+      "description": "No Description."
     },
     {
       "name": "CHATBOT",
       "url": "https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8",
-      "description": "Integrates a chatbot to engage in automated conversations, providing answers or performing tasks."
+      "description": "Integrates a chatbot to engage in automated conversations."
     },
     {
       "name": "BLACKBOX AI",
