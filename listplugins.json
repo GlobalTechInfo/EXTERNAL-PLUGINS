@@ -2,47 +2,58 @@
   "plugins": [
     {
       "name": "GET JIDS",
-      "url": "https://gist.github.com/GlobalTechInfo/31a68f74f5483aa3b79a385b7173e558"
+      "url": "https://gist.github.com/GlobalTechInfo/31a68f74f5483aa3b79a385b7173e558",
+      "description": "Fetches the JID (Jabber ID) for users or devices connected to the server."
     },
     {
       "name": "R-C STICKER",
-      "url": "https://gist.github.com/GlobalTechInfo/afec1aea0969afeba67cf042efbdf4a0"
+      "url": "https://gist.github.com/GlobalTechInfo/afec1aea0969afeba67cf042efbdf4a0",
+      "description": "Adds custom stickers to messages, with the ability to send and manage them."
     },
     {
       "name": "LIVE TIME",
-      "url": "https://gist.github.com/GlobalTechInfo/76e1cfdfc8f7e4e86dad69507ab52c43"
+      "url": "https://gist.github.com/GlobalTechInfo/76e1cfdfc8f7e4e86dad69507ab52c43",
+      "description": "Displays the current live time of any given location, providing accurate timezone info."
     },
     {
       "name": "QUOTED STICKER",
-      "url": "https://gist.github.com/GlobalTechInfo/ceea9f82889e287d8cd08508d66bb618"
+      "url": "https://gist.github.com/GlobalTechInfo/ceea9f82889e287d8cd08508d66bb618",
+      "description": "Allows users to reply to messages with quoted text and accompanying stickers."
     },
     {
       "name": "HACK PRANK",
-      "url": "https://gist.github.com/GlobalTechInfo/0004dcf0a605aeb05cbe6a67f4ad2b7f"
+      "url": "https://gist.github.com/GlobalTechInfo/0004dcf0a605aeb05cbe6a67f4ad2b7f",
+      "description": "Prank tool that simulates a hacking event or warning in a chat environment."
     },
     {
       "name": "LINUX MACHINE",
-      "url": "https://gist.github.com/GlobalTechInfo/9d7fbb6a03fc23fd5574aed7fa6d7237"
+      "url": "https://gist.github.com/GlobalTechInfo/9d7fbb6a03fc23fd5574aed7fa6d7237",
+      "description": "Emulates basic Linux machine commands and operations within the chat system."
     },
     {
       "name": "LEAVE GROUP",
-      "url": "https://gist.github.com/Guru322/6263ff5478fe20b7467648d694646f6c"
+      "url": "https://gist.github.com/Guru322/6263ff5478fe20b7467648d694646f6c",
+      "description": "Automatically removes users from groups based on set conditions or triggers."
     },
     {
       "name": "CHATBOT",
-      "url": "https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8"
+      "url": "https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8",
+      "description": "Integrates a chatbot to engage in automated conversations, providing answers or performing tasks."
     },
     {
       "name": "BLACKBOX AI",
-      "url": "https://gist.github.com/GlobalTechInfo/860236d11ba4bf9041d9417b24adc19b"
+      "url": "https://gist.github.com/GlobalTechInfo/860236d11ba4bf9041d9417b24adc19b",
+      "description": "Advanced AI tool for analyzing data and making predictions or decisions based on black-box machine learning."
     },
     {
       "name": "TRAVEL ASSISTANT",
-      "url": "https://gist.github.com/GlobalTechInfo/9278ac5e5882289c836374cb40acd06d"
+      "url": "https://gist.github.com/GlobalTechInfo/9278ac5e5882289c836374cb40acd06d",
+      "description": "Provides travel-related information such as flight bookings, hotel recommendations, and itineraries."
     },
     {
       "name": "MINIMAL GOOGLE",
-      "url": "https://gist.github.com/GlobalTechInfo/ca6fd6f94a7ea4c64153362ea1eb8f9b"
+      "url": "https://gist.github.com/GlobalTechInfo/ca6fd6f94a7ea4c64153362ea1eb8f9b",
+      "description": "A minimalistic interface to interact with Google's search engine, offering fast results."
     }
   ]
 }
