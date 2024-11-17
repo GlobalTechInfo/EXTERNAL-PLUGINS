@@ -31,6 +31,15 @@
 
 ## Available Plugins
 
+<h4 align="center"> NOTES </h1>
+
+Quickly save your thoughts or reminders. Easily retrieve, Manage your notes by removing outdated or unnecessary ones.
+```
+https://gist.github.com/GlobalTechInfo/a6e6e3679c9e2e2f5cab9a4ce364cb21
+```
+- Created By Qasim
+---
+
 <h4 align="center"> FACTS </h1>
 
 Delivers a random, interesting fact each time you trigger the command, making learning fun and engaging.
