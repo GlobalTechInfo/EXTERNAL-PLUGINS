@@ -1,6 +1,11 @@
 {
   "plugins": [
     {
+      "name": "NOTES",
+      "url": "https://gist.github.com/GlobalTechInfo/a6e6e3679c9e2e2f5cab9a4ce364cb21",
+      "description": "Quickly save your thoughts or reminders. Easily retrieve, Manage your notes by removing outdated or unnecessary ones."
+    },
+    {
       "name": "GET JIDS",
       "url": "https://gist.github.com/GlobalTechInfo/31a68f74f5483aa3b79a385b7173e558",
       "description": "Fetches the Jabber ID (JID) of groups and members for easier identification and management."
